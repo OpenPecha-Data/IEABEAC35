@@ -1,0 +1,19 @@
+id: 71a78b4ba95a41d88fe0e3900eee450c
+annotation_type: index
+revision: '00001'
+annotations:
+  3741e05731454c0b8b3515bf464e94ee:
+    base: f4F55.txt
+    span:
+      start: 0
+      end: 10415
+  b58f4fa2ef1e4b9bbf030f0c48361ff2:
+    base: fAB08.txt
+    span:
+      start: 0
+      end: 312
+  4ae86d906ac042bba03ff0f0151ee7d8:
+    base: fD283.txt
+    span:
+      start: 0
+      end: 54
